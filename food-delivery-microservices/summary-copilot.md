@@ -1,3 +1,5 @@
+> Prompt - can you provide a summary of this repo and leave it in a markdown file called summary.md
+
 # Food Delivery Microservices Repository
 
 A sample food delivery application built with a microservices architecture, showcasing best practices in scalability, observability, and maintainability.
@@ -20,18 +22,18 @@ A sample food delivery application built with a microservices architecture, show
 
 ## Tasks & Workflows
 
--   **Build & Watch**: `dotnet build/watch` tasks per service
--   **Docker**: build/run targets (`dev`, `debug`, `prod`) via scripts and Compose
--   **Testing**: unit, integration, end‑to‑end tests for each service
--   **Observability**: Prometheus, Grafana, Loki, Tempo configurations
+- **Build & Watch**: `dotnet build/watch` tasks per service
+- **Docker**: build/run targets (`dev`, `debug`, `prod`) via scripts and Compose
+- **Testing**: unit, integration, end‑to‑end tests for each service
+- **Observability**: Prometheus, Grafana, Loki, Tempo configurations
 
 ## Key Features
 
--   Independently deployable .NET Core microservices
--   Shared BuildingBlocks for common concerns
--   Containerized workflows (Docker, Kubernetes)
--   Comprehensive test suites
--   Observability with OpenTelemetry, Grafana, Prometheus
+- Independently deployable .NET Core microservices
+- Shared BuildingBlocks for common concerns
+- Containerized workflows (Docker, Kubernetes)
+- Comprehensive test suites
+- Observability with OpenTelemetry, Grafana, Prometheus
 
 ## Getting Started
 

@@ -1,3 +1,5 @@
+> Prompt - can you provide a summary of this repo and leave it in a markdown file called summary.md
+
 # Repository Summary: Food Delivery Modular Monolith
 
 This repository implements a modular monolith architecture for a food delivery application. It is structured to support scalability, maintainability, and modularity, with a focus on domain-driven design principles. Below is an overview of the key components and structure of the repository:
